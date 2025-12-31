@@ -1,13 +1,3 @@
-# Common preboard datesheet
-| Date       | Day       | Subject                      |
-| ---------- | --------- | ---------------------------- |
-| 08/12/2025 | Monday    | Physics                ✅    |
-| 10/12/2025 | Wednesday | Physical Education     ✅    |
-| 12/12/2025 | Friday    | Chemistry              ✅    |
-| 15/12/2025 | Monday    | Mathematics            ✅    |
-| 17/12/2025 | Wednesday | English                      |
-| 19/12/2025 | Friday    | Computer Science             |
-| 22/12/2025 | Monday    | Biology                      |
 
 
 # Am still working on it!!!!!
